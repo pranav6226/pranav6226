@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Pranav</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Algorithmic Option Trading**
+- 🌱 I’m currently learning **Trading bot using sentiment analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranav6226](https://github.com/pranav6226)
 
