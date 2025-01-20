@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Trading bot using sentiment analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pranav6226](https://github.com/pranav6226)
+- 👨‍💻 All of my projects are available at https://mekal.dev/
 
 - 📫 How to reach me **pmekal@syr.edu**
 
