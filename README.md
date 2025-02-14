@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Pranav</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🔭 I’m currently working on a pricing elastcity model
-
-- 🌱 I’m currently learning **Trading bot using sentiment analysis**
+- 🔭 I’m currently working on a **Trading bot using sentiment analysis**
 
 - 👨‍💻 All of my projects are available at https://mekal.dev/
 
