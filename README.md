@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Pranav</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🔭 I’m currently working on a **RAG based startup analyser using deep search**
+- 🔭 I’m currently working on a **Prosh** which a social platform for founders, investors and innovators.
 
 - 👨‍💻 All of my projects are available at https://mekal.dev/
 
-- 📫 How to reach me **pmekal@syr.edu**
+- 📫 How to reach me **pranav.mekal@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
